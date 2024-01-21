@@ -2,17 +2,17 @@
 
 ## 🚀 About Me
 
-I'm **Piotr**, I am a **Computer Science graduate** and currently, I am trying to find my first **job as a developer**. While studying at Adam Mickiewicz University, my most significant experience was gained in programming with **Python**. 
+I'm **Piotr**, I am a **Computer Science graduate** and currently, I am trying to get my first **job as a developer**. While studying at Adam Mickiewicz University, my most significant experience was gained in programming with **Python**. 
 
 Currently, I am deepening my knowledge - also in **Python** - while studying in the field of **Data Analysis**.
 
 ## 🛠️ Skills and experience
 
-You can check out my best work and experience in the pinned repositories below! ⬇️
+You can check out my best work and experience in the repositories below! ⬇️
 
-* **[planimbly](https://github.com/planimbly/planimbly)** - team project for the completion of bachelor studies in which we created a complex tool for generating schedules for units operating on a shift system. I mainly worked in the field of developing an algorithm for generating schedule.
+* **[planimbly](https://github.com/planimbly/planimbly)** - team project for the completion of bachelor studies in which we created a complex tool for generating schedules for workplaces operating in a shift system. I mainly worked in the field of developing an algorithm for generating schedule.
 
-* **[smiecioInator](https://github.com/kwakie13/smiecioInator)** - my biggest individual project which involved creating an autonomous garbage collector. In the project, I used a neural network, genetic algorithm, decision tree, and the A* algorithm.
+* **[smiecioInator](https://github.com/kwakie13/smiecioInator)** - my biggest individual project which involved creating an AI-assisted garbage collector. In the project, I used a neural network, genetic algorithm, decision tree, and the A* algorithm.
 
 * **[InteriaGenerator](https://github.com/kwakie13/InteriaGenerator)** - simple yet highly useful project: a speedway match program generator, facilitating the work of journalists at Interia - the third-largest Polish sports portal. Provide team line-ups and get a txt file with the appropriate race line-ups.
 
